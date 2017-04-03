@@ -9,6 +9,12 @@ Unityプラグインは営業担当者から受け取るか、[お問い合わ�
 * [AdStir Integration Guide for iOS](https://github.com/united-adstir/AdStir-Integration-Guide-iOS/ "AdStir Integration Guide for iOS")
 * [AdStir Integration Guide for Web](https://github.com/united-adstir/AdStir-Integration-Guide-Web/ "AdStir Integration Guide for Web")
 
+## バナー広告の組み込み
+
+320x50, 320x100, 300x250サイズのバナー広告の組み込み方法です。
+
+[バナー広告の組み込み（Unity）](https://github.com/united-adstir/AdStir-Integration-Guide-Unity/wiki/%E3%83%90%E3%83%8A%E3%83%BC%E5%BA%83%E5%91%8A%E3%81%AE%E5%B0%8E%E5%85%A5)
+
 ## 動画視聴型インセンティブ広告の組み込み
 
 動画視聴型インセンティブ広告の組み込み方法です。
