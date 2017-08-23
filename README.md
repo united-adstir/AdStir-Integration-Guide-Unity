@@ -31,7 +31,14 @@ Unityプラグインは営業担当者から受け取るか、[お問い合わ�
 
 Ad Exchangeバナー広告の導入方法です。
 
-[Ad Exchangeのバナー広告の導入方法（Unity）](https://github.com/united-adstir/AdStir-Integration-Guide-Unity/wiki/Ad-Exchange-%E3%82%A2%E3%83%97%E3%83%AA%E5%86%85%E5%BA%83%E5%91%8A%E3%81%AE%E5%B0%8E%E5%85%A5 "全Ad Exchangeのバナー広告の導入方法（Unity）")
+[Ad Exchangeのバナー広告の導入方法（Unity）](https://github.com/united-adstir/AdStir-Integration-Guide-Unity/wiki/Ad-Exchange-%E3%82%A2%E3%83%97%E3%83%AA%E5%86%85%E5%BA%83%E5%91%8A%E3%81%AE%E5%B0%8E%E5%85%A5 "Ad Exchangeのバナー広告の導入方法（Unity）")
+
+## Google DoubleClick Ad Exchangeインタースティシャルの導入
+
+Ad Exchangeインタースティシャル広告の導入方法です。
+
+[Ad Exchangeインタースティシャル広告の導入（Unity）](https://github.com/united-adstir/AdStir-Integration-Guide-Unity/wiki/Ad-Exchange%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E5%BA%83%E5%91%8A%E3%81%AE%E5%B0%8E%E5%85%A5 "Ad Exchangeのインタースティシャル広告の導入方法（Unity）")
+
 
 ## お問い合わせ
 
