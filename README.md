@@ -47,6 +47,12 @@ Ad Exchange動画リワード広告の導入方法です。
 
 [Ad Exchange動画リワード広告の導入（Unity）](https://github.com/united-adstir/AdStir-Integration-Guide-Unity/wiki/Ad-Exchange%E5%8B%95%E7%94%BB%E3%83%AA%E3%83%AF%E3%83%BC%E3%83%89%E5%BA%83%E5%91%8A%E3%81%AE%E5%B0%8E%E5%85%A5 "Ad Exchange動画リワード広告の導入（Unity）")
 
+## Google AdMobメディエーションでの配信
+
+adstirはAdMobメディエーションのカスタムイベントでの配信に対応しています。
+
+[Google AdMobメディエーションでの配信](https://github.com/united-adstir/AdStir-Integration-Guide-Unity/wiki/Google-AdMob%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A7%E3%81%AE%E9%85%8D%E4%BF%A1)
+
 ## お問い合わせ
 
 ご不明な点はお気軽に[お問い合わせ](https://ja.ad-stir.com/contact "お問い合わせ")ください。
