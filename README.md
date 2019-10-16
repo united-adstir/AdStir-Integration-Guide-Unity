@@ -11,6 +11,13 @@ Unityプラグインは営業担当者から受け取るか、[お問い合わ�
 
 *Read this in other languages: [日本語](README.md), [English](README.en.md).*
 
+## 対応提携ネットワーク
+
+adstirのUnityPluginが対応している提携ネットワーク一覧です。
+
+* [対応提携ネットワーク](https://github.com/united-adstir/AdStir-Integration-Guide-Unity/wiki/%E5%AF%BE%E5%BF%9C%E6%8F%90%E6%90%BA%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF)
+
+
 ## バナー広告の組み込み
 
 320x50, 320x100, 300x250サイズのバナー広告の組み込み方法です。
