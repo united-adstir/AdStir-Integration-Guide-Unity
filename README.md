@@ -53,6 +53,10 @@ adstirはAdMobメディエーションのカスタムイベントでの配信に
 
 [Google AdMobメディエーションでの配信](https://github.com/united-adstir/AdStir-Integration-Guide-Unity/wiki/Google-AdMob%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A7%E3%81%AE%E9%85%8D%E4%BF%A1)
 
+## 更新履歴
+
+* [更新履歴](https://github.com/united-adstir/AdStir-Integration-Guide-Unity/wiki/%E6%9B%B4%E6%96%B0%E5%B1%A5%E6%AD%B4)
+
 ## お問い合わせ
 
 ご不明な点はお気軽に[お問い合わせ](https://ja.ad-stir.com/contact "お問い合わせ")ください。
